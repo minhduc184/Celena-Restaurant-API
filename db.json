@@ -1,19 +1,19 @@
 {
   "main-item": [
     { "id": 1,
-      "title": "Appetizer", 
-      "description": "the first course of a meal",
-      "image": "/images/1.jpg"
+      "title": "APPETIZER", 
+      "description": "THE FIRST COURSE OF A MEAL ",
+      "image": "/images/appetizer.jpg"
 
     },
     { "id": 2,
       "title": "KID MEALS", 
-      "description":"kid-friendly food for your little ones"
-
+      "description":"KID-FRIENDLY FOOD FOR YOUR LITTLE ONES", 
+      "image": "/images/kidmeal.jpg"
     },
     { "id": 3,
     "title": "VEGAN FOOD", 
-    "description":"healthy, nutrient-rich diet",
+    "description":"HEALTHY, NUTRIENT-RICH DIET",
     "image": "/images/2.jpg"
 
 
