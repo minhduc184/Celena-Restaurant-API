@@ -1,0 +1,49 @@
+{
+  "post": [
+    { "id": 1,
+      "title": "Appetizer", 
+      "description": "the first course of a meal"
+
+    },
+    { "id": 2,
+      "title": "KID MEALS", 
+      "description":"kid-friendly food for your little ones"
+
+    },
+    { "id": 3,
+    "title": "VEGAN FOOD", 
+    "description":"healthy, nutrient-rich diet"
+
+    },
+    { "id": 4,
+    "title": "LUXURIOUS", 
+    "description":"the most elaborate chef's dishes"
+
+    },
+    { "id": 5,
+    "title": "DRINK", 
+    "description":"alcohol, beer, bottle, smoothie, coffee"
+
+    },
+    { "id": 6,
+    "title": "DESSERT", 
+    "description":"the secrets to achieving, incredible flavor"
+
+    }
+
+
+
+  ],
+
+  "comments": [
+    { "id": 1, 
+      "title": "San pham tot"
+    },
+    { "id": 1, 
+    "title": "San pham cuc ki tot"
+    },
+    { "id": 1, 
+    "title": "San pham rat tot"
+    }
+  ]
+}
