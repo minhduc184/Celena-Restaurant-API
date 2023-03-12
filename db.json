@@ -1,8 +1,7 @@
 
 
-
   {
-    "products": [{
+    "main-items": [{
         "id": 1,
         "title": "Red T-Shirt",
         "description": "A comfortable and stylish red t-shirt.",
