@@ -3,7 +3,7 @@
     { "id": 1,
       "title": "Appetizer", 
       "description": "the first course of a meal",
-      "image": "./images/1.jpg"
+      "image": "/images/1.jpg"
 
     },
     { "id": 2,
