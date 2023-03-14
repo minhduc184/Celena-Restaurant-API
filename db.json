@@ -20,22 +20,21 @@
     },
     { "id": 4,
     "title": "LUXURIOUS", 
-    "description":"the most elaborate chef's dishes",
-    "image": "/images/2.jpg"
+    "description":"THE MOST ELABORATE CHEF'S DISHES",
+    "image": "/images/luxury.jpg"
 
 
     },
     { "id": 5,
     "title": "DRINK", 
-    "description":"alcohol, beer, bottle, smoothie, coffee",
-    "image": "/images/2.jpg"
+    "description":"LCOHOL, BEER, BOTTLEM SMOOTHIE, COFFEE",
+    "image": "/images/drink.jpg"
 
     },
     { "id": 6,
     "title": "DESSERT", 
-    "description":"the secrets to achieving, incredible flavor",
-    "image": "/images/2.jpg"
-
+    "description":"THE SECRETS TO ACHIEVING, INCREDIBLE FLAVOR",
+    "image": "/images/desert.jpg"
     }
   ]
 }
