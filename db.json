@@ -36,5 +36,24 @@
     "description":"THE SECRETS OF INCREDIBLE FLAVOR",
     "image": "/images/desert.jpg"
     }
+  ],
+
+  "appertizer-menu":[
+    { "id": 1,
+      "title": "", 
+      "description": "Seafood dish consisting of shelled, cooked prawns in a Marie Rose sauce,served in a glass.",
+      "image": "/images/Menu-appertizer/Prawn-cocktail.jpg"
+
+    },
+    { "id": 2,
+      "title": "Black Caviar", 
+      "description": "Italian twist with a creamy sundried tomato, pesto, and Parmesan filling.",
+      "image": "/images/black caviar.jpg"
+    },
+    { "id": 3,
+    "title": "Black Caviar", 
+    "description": "Italian twist with a creamy sundried tomato, pesto, and Parmesan filling.",
+    "image": "/images/Menu-appertizer/Tortilla.jpg"
+    }
   ]
 }
