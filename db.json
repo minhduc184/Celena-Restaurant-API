@@ -55,7 +55,25 @@
     "title": "Tortilla", 
     "description": "Italian twist with a creamy sundried tomato, pesto, and Parmesan filling.",
     "image": "/images/Menu-appertizer/Tortilla.jpg",
-    "price":  "$6.99"
+    "price":  "$5.99"
+    },
+    { "id": 4,
+    "title": "Raw Zucchini Wraps", 
+    "description": "With turkey, cheese, and pesto all wrapped up in cucumber slices.",
+    "image": "/images/Menu-appertizer/Raw-Zucchini-Wraps.jpg",
+    "price":  "$3.99"
+    },
+    { "id": 5,
+    "title": "Deviled Eggs", 
+    "description": "Filled with a creamy filling made by combining the cooked yolks with mayonnaise, mustard.",
+    "image": "/images/Menu-appertizer/Deviled-egg.jpg",
+    "price":  "$3.99"
+    },
+    { "id": 6,
+    "title": "Smoked Salmon", 
+    "description": "The classic combination of smoked salmon, dill, cucumber and cream cheese.",
+    "image": "/images/Menu-appertizer/Smoked-Salmon.webp",
+    "price":  "$9.99"
     }
   ]
 }
