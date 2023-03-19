@@ -42,18 +42,20 @@
     { "id": 1,
       "title": "Shrimp Cocktail", 
       "description": "Seafood dish consisting of shelled, cooked prawns in a Marie Rose sauce,served in a glass.",
-      "image": "/images/Menu-appertizer/Prawn-cocktail.jpg"
-
+      "image": "/images/Menu-appertizer/Prawn-cocktail.jpg",
+      "price":  "$7.99"
     },
     { "id": 2,
       "title": "Black Caviar", 
-      "description": "Italian twist with a creamy sundried tomato, pesto, and Parmesan filling.",
-      "image": "/images/Menu-appertizer/black-caviar.jpg"
+      "description": "With cream cheese and dill. Also deliver a sweet, buttery flavor.",
+      "image": "/images/Menu-appertizer/black-caviar.jpg",
+      "price":  "$11.99"
     },
     { "id": 3,
-    "title": "Black Caviar", 
+    "title": "Tortilla", 
     "description": "Italian twist with a creamy sundried tomato, pesto, and Parmesan filling.",
-    "image": "/images/Menu-appertizer/Tortilla.jpg"
+    "image": "/images/Menu-appertizer/Tortilla.jpg",
+    "price":  "$6.99"
     }
   ]
 }
