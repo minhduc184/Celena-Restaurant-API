@@ -48,7 +48,7 @@
     { "id": 2,
       "title": "Black Caviar", 
       "description": "Italian twist with a creamy sundried tomato, pesto, and Parmesan filling.",
-      "image": "images/Menu-appertizer/black-caviar.jpg"
+      "image": "/images/Menu-appertizer/black-caviar.jpg"
     },
     { "id": 3,
     "title": "Black Caviar", 
