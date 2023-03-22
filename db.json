@@ -138,5 +138,56 @@
     "image": "/images/Menu-kidmeal/chicken-soup.jpg",
     "price":  "$11.69"
     } 
+  ],
+
+  "veganfood-menu":[
+    { "id": 1,
+      "title": "Caesar Salad", 
+      "description": "Rich and creamy roasted garlic Caesar Dressing, fresh romaine, crispy chickpea croutons, almond parmesan, and avocado.",
+      "image": "/images/Menu-veganfood/caesar-salad.jpg",
+      "price":  "$9.69"
+    },
+    { "id": 2,
+      "title": "Summer Rolls", 
+      "description": "Packed with vegetables especially when served with a creamy peanut dipping sauce.",
+      "image": "/images/Menu-veganfood/summer-rolls.jpg",
+      "price":  "$9.69"
+    },
+    { "id": 3,
+    "title": "Avocado Cucumber Rolls", 
+    "description": "Cauliflower rice and mango are healthy, full of color and perfect for summer entertaining.",
+    "image": "/images/Menu-veganfood/avocado-cucumber-rolls.jpg",
+    "price":  "$10.49"
+    },
+    { "id": 4,
+    "title": "Butternut Squash Curry", 
+    "description": "Starts with a trio of aromatics, including onion, garlic, and ginger.",
+    "image": "/images/Menu-veganfood/butternut-squash-curry.jpg",
+    "price":  "$12.99"
+    },
+    { "id": 5,
+    "title": "Matcha Cream Buns", 
+    "description": "Soft, fluffy buns filled with a light and rich matcha custard cream.",
+    "image": "/images/Menu-veganfood/matcha-cream-buns.jpg",
+    "price":  "$9.99"
+    },
+    { "id": 6,
+    "title": "Szechuan tofu", 
+    "description": "A flavorful vegan stir-fry with crispy tofu, szechuan sauce.",
+    "image": "/images/Menu-veganfood/szechuan-tofu.jpg",
+    "price":  "$11.29"
+    },
+    { "id": 7,
+    "title": "Roasted Mushroom & Kale", 
+    "description": "Onions, meaty cremini mushrooms, and kale roast.",
+    "image": "/images/Menu-veganfood/roasted-mushroom-kale.jpg",
+    "price":  "$17.99"
+    },
+    { "id": 8,
+    "title": "Bok Choy With Mushroom Souce", 
+    "description": "Smothered in a savoury mushroom sauce makes for a great meatless main.",
+    "image": "/images/Menu-veganfood/bok-choy-with-mushroom-souce.jpg",
+    "price":  "$17.99"
+    } 
   ]
 }
