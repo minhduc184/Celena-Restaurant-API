@@ -129,7 +129,7 @@
     { "id": 7,
     "title": "Omurice", 
     "description": "Savory chicken fried rice flavored with ketchup and wrapped in a soft, thin layer of egg.",
-    "image": "/images/Menu-kidmeal/Omurice.jpg",
+    "image": "/images/Menu-kidmeal/omurice.jpg",
     "price":  "$15.99"
     },
     { "id": 8,
