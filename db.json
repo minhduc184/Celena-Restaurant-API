@@ -83,8 +83,59 @@
     },
     { "id": 8,
     "title": "Fortune Cookies", 
-    "description": "A crisp and sugary cookie wafer made from flour, sugar, vanilla, and sesame seed oil with a piece of paper inside.",
+    "description": "A biscuit containing a message, usually about future.",
     "image": "/images/Menu-appertizer/fortune-cookies.jpg",
+    "price":  "$5.99"
+    } 
+  ],
+
+  "kidmeal-menu":[
+    { "id": 1,
+      "title": "Pumpkin Soup", 
+      "description": "Thick, creamy and full of flavour.",
+      "image": "/images/Menu-kidmeal/pumpkin-soup.jpg",
+      "price":  "$7.99"
+    },
+    { "id": 2,
+      "title": "Chicken Congee", 
+      "description": "With just rice, water, and salt, this delicious rice porridge was made to stretch for days.",
+      "image": "/images/Menu-kidmeal/chicken-congee.jpg",
+      "price":  "$11.99"
+    },
+    { "id": 3,
+    "title": "Waffles", 
+    "description": "Italian twist with a creamy sundried tomato, pesto, and Parmesan filling.",
+    "image": "/images/Menu-kidmeal/waffles.jpg",
+    "price":  "$5.99"
+    },
+    { "id": 4,
+    "title": "Raw Zucchini Wraps", 
+    "description": "With turkey, cheese, and pesto all wrapped up in cucumber slices.",
+    "image": "/images/Menu-kidmeal/Raw-Zucchini-Wraps.jpg",
+    "price":  "$3.99"
+    },
+    { "id": 5,
+    "title": "Deviled Eggs", 
+    "description": "Filled with a creamy filling made by combining the cooked yolks with mayonnaise, mustard.",
+    "image": "/images/Menu-kidmeal/Deviled-egg.jpg",
+    "price":  "$3.99"
+    },
+    { "id": 6,
+    "title": "Smoked Salmon", 
+    "description": "The classic combination of smoked salmon, dill, cucumber and cream cheese.",
+    "image": "/images/Menu-kidmeal/Smoked-Salmon.webp",
+    "price":  "$9.99"
+    },
+    { "id": 7,
+    "title": "French Fries", 
+    "description": "Fries are often salted and served with ketchup, mayonnaise.",
+    "image": "/images/Menu-kidmeal/french-fries.jpg",
+    "price":  "$6.99"
+    },
+    { "id": 8,
+    "title": "Fortune Cookies", 
+    "description": "A crisp and sugary cookie wafer made from flour, sugar, vanilla, and sesame seed oil with a piece of paper inside.",
+    "image": "/images/Menu-kidmeal/fortune-cookies.jpg",
     "price":  "$5.99"
     } 
   ]
